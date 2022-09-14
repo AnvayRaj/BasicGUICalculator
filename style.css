@@ -1,0 +1,19 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+.fx_btn {
+    width: 50px !important;
+}
+.wd_btn{
+  width: 105px !important;
+}
+.row{
+  margin: 4px !important;
+}
+ul{
+  list-style-type: none;
+}
+input { 
+    text-align: center; 
+}
